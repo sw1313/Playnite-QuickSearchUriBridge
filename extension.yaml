@@ -1,0 +1,8 @@
+﻿Id: sw1313_QuickSearchUriBridge
+Name: QuickSearchURIBridge
+Author: sw1313
+Version: 1.1.0
+Module: QuickSearchUriBridge.dll
+Type: GenericPlugin
+Icon: icon.png
+RequiredApiVersion: 6.12.0
